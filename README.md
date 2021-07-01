@@ -1,5 +1,5 @@
 # Phase Two Project Repo
-<img src="KingCounty.jpeg">
+<img src="../images/KingCounty.jpeg">
 
 # Overview
 This project dives into a slice of the King County, Washington real estate market. We seek to use linear regression to build a predictive model that will best predict sale price of a house for our clients. We looked at a variety of ranging from location, phyiscal atributes of the home, residential building grades, proximity to Whole Foods, and median household income. We found many features that contributed to our model producing more accurate predictions. We found the X and Y had the largest impact on our model. Additionally by manipulating these features, they also were very impactful... Next steps for us would be to gather some additional census data to give us more continuous data for income levels in each neighborhood. 
