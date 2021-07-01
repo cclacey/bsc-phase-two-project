@@ -21,6 +21,7 @@ Train Root Mean Squared Error: 147543.401
 Most error is between 854 thousand and 2 million. The error in all other bins is around 30 thousand dollars down to 5.5 thousand dollars for one bin.
 # Conclusion and Next Steps
 In conclusion, we ended up using a more basic regression method than we anticipated. The two most impactful features on our model were two that we engineered. The highest being the square root of sq_ft_above with a coefficient of nearly 200,000 and the second highest being the interaction between square foot living, grade, and nearest Whole Foods being -150,000. This interaction is negative because the smaller the distance to Whole Foods, the greater the price of the home. Initial next steps for us would be to take more census data into account around income and schools, accessibility to municipal services, and additional features of the home such as size of driveway, type of heating, or existence of porch. Finally, we would like to create a model with price per square foot as the target as that would leave much less room for error and could help us better hone in on the best model possible.
+
 project-folder
     |
     README.md
