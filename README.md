@@ -24,6 +24,7 @@ In conclusion, we ended up using a more basic regression method than we anticipa
 ```
 project-folder
     |
+    Kings County Housing Analysis.pdf
     README.md
     data-folder
     images-folder
